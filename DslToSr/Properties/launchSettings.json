@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DslToSr": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\User5545\\Desktop\\dsl\\sunrise_new_sim_first_online\\sunrise_new_sim_first_online.dsl\" \"C:\\Users\\User5545\\Desktop\\dsl\\sunrise_new_sim_first_online.sr\""
+    }
+  }
+}
